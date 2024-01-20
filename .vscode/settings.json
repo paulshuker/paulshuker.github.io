@@ -2,4 +2,7 @@
     "editor.wordWrap": "on",
     "editor.overviewRulerBorder": true,
     "editor.rulers": [],
+    "cSpell.words": [
+        "CVSG"
+    ],
 }
